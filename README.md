@@ -15,6 +15,3 @@ An **SMS Spam Classifier** project that leverages **Natural Language Processing 
 - **scikit-learn**: Machine learning library for model building
 - **pandas**: Data manipulation
 - **NumPy**: Numerical operations
-
-## 📂 Project Structure
-
